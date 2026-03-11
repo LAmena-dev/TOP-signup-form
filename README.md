@@ -1,4 +1,4 @@
-# Signup-Form
+# Signup Form
 A [mockup signup form](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form) using HTML and CSS.
 
 ## Technology used
